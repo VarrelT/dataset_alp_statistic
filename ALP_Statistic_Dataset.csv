@@ -1,0 +1,151 @@
+No.,Nama Wilayah,Umur (Tahun),Berat Badan (kg),Tinggi Badan (cm),Jenis Kelamin,Status Kesehatan,Tekanan Darah (mmHg),Kadar Gula (mg/dL),Kolesterol (mg/dL)
+1,Surabaya,36,91,165,Pria,Obesitas Sedang,150,187,237
+2,Medan,60,93,161,Pria,Normal,92,91,260
+3,Palembang,31,94,166,Pria,Obesitas Sedang,134,225,107
+4,Palembang,29,67,189,Pria,Normal,101,247,156
+5,Surabaya,58,63,173,Wanita,Obesitas Ringan,92,117,163
+6,Denpasar,44,55,155,Pria,Normal,155,117,233
+7,Bandung,23,52,172,Pria,Normal,170,128,102
+8,Balikpapan,47,69,171,Pria,Kekurangan Berat Badan,125,72,286
+9,Palembang,49,58,151,Wanita,Obesitas Ringan,108,120,152
+10,Makassar,28,95,190,Wanita,Normal,180,86,158
+11,Makassar,35,68,151,Pria,Kekurangan Berat Badan,111,72,188
+12,Surabaya,31,63,158,Pria,Kekurangan Berat Badan,134,100,217
+13,Denpasar,55,52,170,Wanita,Kekurangan Berat Badan,165,154,101
+14,Semarang,24,77,178,Pria,Normal,131,132,191
+15,Bandung,38,52,168,Wanita,Obesitas Sedang,154,237,246
+16,Semarang,35,56,160,Pria,Obesitas Sedang,96,144,207
+17,Surabaya,31,90,180,Wanita,Obesitas Ringan,153,152,186
+18,Makassar,21,81,182,Pria,Obesitas Ringan,123,123,292
+19,Jakarta Barat,38,96,180,Pria,Obesitas Sedang,159,105,157
+20,Palembang,32,98,172,Pria,Kekurangan Berat Badan,171,224,215
+21,Balikpapan,29,50,168,Pria,Normal,133,107,146
+22,Palembang,31,90,187,Wanita,Kekurangan Berat Badan,112,194,284
+23,Denpasar,47,77,157,Wanita,Normal,163,207,113
+24,Medan,32,79,186,Wanita,Kekurangan Berat Badan,103,227,233
+25,Makassar,47,59,189,Pria,Kekurangan Berat Badan,175,126,195
+26,Jakarta Barat,46,88,190,Wanita,Kekurangan Berat Badan,115,171,235
+27,Palembang,44,91,150,Pria,Obesitas Sedang,163,163,221
+28,Balikpapan,29,54,155,Pria,Normal,154,154,227
+29,Palembang,54,65,152,Wanita,Obesitas Sedang,171,161,262
+30,Bandung,59,50,165,Wanita,Obesitas Sedang,169,216,158
+31,Medan,36,74,176,Pria,Normal,160,91,252
+32,Semarang,37,45,157,Wanita,Kekurangan Berat Badan,109,151,175
+33,Balikpapan,23,47,168,Wanita,Kekurangan Berat Badan,136,83,109
+34,Palembang,23,58,174,Wanita,Kekurangan Berat Badan,163,87,237
+35,Palembang,37,80,181,Pria,Obesitas Sedang,140,153,214
+36,Jakarta Barat,26,83,189,Pria,Kekurangan Berat Badan,110,214,136
+37,Yogyakarta,42,84,184,Pria,Kekurangan Berat Badan,124,157,293
+38,Yogyakarta,47,58,177,Pria,Kekurangan Berat Badan,128,121,214
+39,Surabaya,32,83,188,Wanita,Kekurangan Berat Badan,157,239,182
+40,Bandung,39,87,184,Wanita,Obesitas Sedang,143,186,205
+41,Yogyakarta,41,78,171,Pria,Normal,159,205,217
+42,Surabaya,27,77,184,Wanita,Kekurangan Berat Badan,158,201,205
+43,Semarang,59,69,171,Pria,Obesitas Ringan,144,226,256
+44,Surabaya,31,69,151,Pria,Normal,130,124,148
+45,Semarang,20,97,154,Pria,Obesitas Ringan,134,212,204
+46,Makassar,23,50,177,Wanita,Kekurangan Berat Badan,155,223,116
+47,Surabaya,39,92,159,Pria,Obesitas Ringan,101,139,196
+48,Medan,25,70,168,Wanita,Obesitas Ringan,140,108,194
+49,Surabaya,35,98,162,Wanita,Kekurangan Berat Badan,133,230,138
+50,Makassar,52,61,151,Wanita,Normal,177,183,240
+51,Semarang,21,79,188,Wanita,Obesitas Ringan,173,239,150
+52,Medan,48,55,157,Pria,Normal,95,221,221
+53,Surabaya,21,94,161,Pria,Obesitas Sedang,168,159,243
+54,Makassar,56,81,151,Pria,Obesitas Sedang,162,106,150
+55,Balikpapan,32,96,174,Pria,Kekurangan Berat Badan,115,74,289
+56,Yogyakarta,22,58,151,Pria,Obesitas Ringan,179,239,277
+57,Jakarta Barat,51,78,151,Wanita,Kekurangan Berat Badan,152,109,170
+58,Makassar,54,72,175,Pria,Obesitas Ringan,91,103,194
+59,Balikpapan,27,52,164,Pria,Obesitas Ringan,179,137,194
+60,Medan,58,63,185,Pria,Obesitas Ringan,150,167,201
+61,Yogyakarta,19,52,178,Wanita,Obesitas Ringan,174,85,246
+62,Makassar,48,45,167,Pria,Obesitas Ringan,101,118,184
+63,Palembang,26,73,168,Wanita,Normal,169,200,272
+64,Medan,48,94,174,Pria,Kekurangan Berat Badan,180,104,243
+65,Medan,59,49,151,Wanita,Kekurangan Berat Badan,161,165,211
+66,Makassar,19,59,155,Pria,Normal,130,205,119
+67,Bandung,18,55,182,Wanita,Normal,156,138,185
+68,Denpasar,51,66,189,Wanita,Kekurangan Berat Badan,92,181,232
+69,Makassar,27,91,190,Wanita,Normal,155,230,134
+70,Denpasar,31,66,165,Wanita,Normal,135,194,267
+71,Balikpapan,44,77,185,Wanita,Kekurangan Berat Badan,161,87,227
+72,Bandung,20,100,185,Wanita,Normal,124,95,183
+73,Jakarta Barat,57,56,181,Wanita,Obesitas Ringan,155,184,249
+74,Makassar,23,92,187,Wanita,Obesitas Ringan,180,182,192
+75,Semarang,29,73,178,Wanita,Obesitas Ringan,133,193,112
+76,Denpasar,33,62,174,Wanita,Obesitas Ringan,149,102,233
+77,Medan,35,81,165,Wanita,Kekurangan Berat Badan,110,235,180
+78,Makassar,31,52,160,Pria,Obesitas Sedang,152,194,289
+79,Bandung,57,79,183,Wanita,Obesitas Ringan,104,190,123
+80,Surabaya,22,61,164,Pria,Obesitas Ringan,155,81,211
+81,Makassar,39,52,190,Pria,Kekurangan Berat Badan,107,179,112
+82,Medan,53,89,170,Pria,Kekurangan Berat Badan,165,80,134
+83,Palembang,29,45,174,Pria,Kekurangan Berat Badan,168,192,272
+84,Balikpapan,60,86,186,Wanita,Obesitas Sedang,93,75,237
+85,Palembang,58,66,189,Pria,Kekurangan Berat Badan,119,177,144
+86,Denpasar,41,99,169,Wanita,Kekurangan Berat Badan,115,220,136
+87,Semarang,49,98,184,Wanita,Normal,164,88,230
+88,Semarang,19,51,161,Pria,Normal,132,132,159
+89,Denpasar,36,68,154,Pria,Normal,117,84,206
+90,Jakarta Barat,25,68,166,Wanita,Obesitas Ringan,174,246,127
+91,Balikpapan,23,56,170,Wanita,Obesitas Ringan,121,182,114
+92,Medan,57,89,166,Wanita,Normal,132,104,187
+93,Semarang,55,66,164,Pria,Kekurangan Berat Badan,166,148,257
+94,Surabaya,39,81,171,Pria,Obesitas Sedang,133,151,136
+95,Jakarta Barat,21,80,155,Pria,Obesitas Sedang,113,184,246
+96,Medan,50,64,154,Wanita,Obesitas Sedang,124,146,186
+97,Balikpapan,20,45,170,Wanita,Normal,131,79,128
+98,Palembang,34,72,182,Wanita,Obesitas Sedang,173,217,252
+99,Semarang,46,93,189,Pria,Kekurangan Berat Badan,95,229,200
+100,Semarang,33,69,153,Pria,Obesitas Ringan,131,215,261
+101,Jakarta Barat,33,70,157,Pria,Obesitas Sedang,134,172,131
+102,Palembang,38,91,164,Wanita,Kekurangan Berat Badan,134,169,274
+103,Surabaya,45,63,190,Pria,Normal,180,114,145
+104,Yogyakarta,24,45,175,Wanita,Kekurangan Berat Badan,150,201,105
+105,Medan,38,66,168,Wanita,Obesitas Sedang,172,213,231
+106,Denpasar,48,49,169,Wanita,Obesitas Sedang,149,108,227
+107,Makassar,32,57,180,Pria,Normal,91,239,154
+108,Palembang,19,81,187,Pria,Kekurangan Berat Badan,125,133,156
+109,Bandung,50,66,189,Pria,Normal,114,202,263
+110,Palembang,53,54,184,Wanita,Kekurangan Berat Badan,114,234,217
+111,Surabaya,44,59,188,Pria,Kekurangan Berat Badan,141,141,216
+112,Palembang,42,64,186,Wanita,Obesitas Sedang,96,169,247
+113,Yogyakarta,57,78,190,Wanita,Obesitas Ringan,171,115,119
+114,Medan,38,64,186,Pria,Obesitas Sedang,141,171,285
+115,Balikpapan,46,89,183,Wanita,Kekurangan Berat Badan,101,124,107
+116,Bandung,33,98,159,Pria,Obesitas Sedang,115,181,205
+117,Jakarta Barat,23,50,152,Pria,Obesitas Sedang,157,113,220
+118,Makassar,58,89,154,Wanita,Obesitas Ringan,173,120,195
+119,Semarang,22,83,167,Pria,Kekurangan Berat Badan,117,70,255
+120,Palembang,35,73,158,Wanita,Obesitas Ringan,173,249,170
+121,Denpasar,58,63,182,Wanita,Normal,164,130,288
+122,Denpasar,31,72,183,Pria,Normal,100,210,155
+123,Balikpapan,51,64,152,Wanita,Kekurangan Berat Badan,104,224,125
+124,Palembang,23,93,165,Wanita,Obesitas Ringan,113,156,232
+125,Yogyakarta,46,96,179,Pria,Obesitas Ringan,157,226,238
+126,Bandung,49,60,182,Pria,Kekurangan Berat Badan,147,72,270
+127,Jakarta Barat,41,73,165,Pria,Obesitas Sedang,172,245,128
+128,Medan,43,80,187,Wanita,Normal,139,119,232
+129,Semarang,20,76,151,Wanita,Kekurangan Berat Badan,138,131,287
+130,Denpasar,31,97,159,Pria,Normal,138,184,111
+131,Makassar,46,56,176,Pria,Normal,177,157,287
+132,Yogyakarta,33,78,171,Pria,Obesitas Sedang,105,242,171
+133,Jakarta Barat,59,87,166,Wanita,Obesitas Ringan,147,139,115
+134,Surabaya,39,69,180,Pria,Normal,139,104,120
+135,Surabaya,37,51,157,Wanita,Obesitas Ringan,140,205,128
+136,Yogyakarta,59,45,189,Pria,Obesitas Sedang,168,94,195
+137,Bandung,41,99,184,Wanita,Normal,116,99,177
+138,Balikpapan,26,97,185,Pria,Obesitas Sedang,133,143,124
+139,Balikpapan,60,53,185,Wanita,Obesitas Sedang,91,104,274
+140,Palembang,56,71,186,Wanita,Kekurangan Berat Badan,178,203,264
+141,Jakarta Barat,43,94,152,Pria,Obesitas Sedang,159,89,140
+142,Denpasar,32,72,173,Pria,Obesitas Ringan,103,130,180
+143,Balikpapan,23,99,178,Pria,Normal,133,167,112
+144,Jakarta Barat,51,77,184,Pria,Obesitas Sedang,100,223,109
+145,Medan,25,73,182,Pria,Obesitas Sedang,124,117,157
+146,Yogyakarta,33,96,160,Pria,Kekurangan Berat Badan,94,207,165
+147,Medan,39,92,166,Wanita,Obesitas Ringan,104,155,216
+148,Semarang,26,50,176,Pria,Obesitas Ringan,135,128,133
+149,Surabaya,38,60,177,Wanita,Kekurangan Berat Badan,93,97,207
+150,Surabaya,36,92,154,Pria,Kekurangan Berat Badan,112,150,232
